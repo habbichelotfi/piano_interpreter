@@ -1,0 +1,5 @@
+/home/lotfi/PycharmProjects/piano_interpreter/piano_datasets/2.jpg
+/home/lotfi/PycharmProjects/piano_interpreter/piano_datasets/piano.jpg
+/home/lotfi/PycharmProjects/piano_interpreter/piano_datasets/1.png
+/home/lotfi/PycharmProjects/piano_interpreter/piano_datasets/4.jpg
+/home/lotfi/PycharmProjects/piano_interpreter/piano_datasets/images.png
